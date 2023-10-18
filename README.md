@@ -2,6 +2,10 @@
 ## Daus Carmichael, Joshua Lee, Tyler Coker
 WARheads: Analyze player performance with advanced metrics like WAR. Explore a wide range of statistics. Ideal for fantasy sports and in-depth player evaluation.
 
+### Sources:
+- Basic Offense/Defense stats [nfl.com](https://www.nfl.com/stats/player-stats/)
+- Rosters since 1970 [Pro-football-reference](https://www.pro-football-reference.com/)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
