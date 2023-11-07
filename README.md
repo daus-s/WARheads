@@ -5,6 +5,7 @@ WARheads: Analyze player performance with advanced metrics like WAR. Explore a w
 ### Sources:
 - Basic Offense/Defense stats [nfl.com](https://www.nfl.com/stats/player-stats/)
 - Rosters since 1970 [Pro-football-reference](https://www.pro-football-reference.com/)
+- [Stathead](https://stathead.com/)
 
 ## Getting Started with Create React App
 
